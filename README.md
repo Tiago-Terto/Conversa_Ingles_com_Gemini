@@ -1,3 +1,4 @@
+# Descrição do Projeto
 
 Este projeto é um bot de conversação em inglês, criado com a ideia de conversar em inglês com você dependendo do seu nível de inglês para aprimorar o seu inglês cada vez mais. Com diversas funções, sendo elas: Caso escreva alguma palavra errada ela te corrige, caso tenha alguma dúvida de alguma palavra basta pergunta, entre outras.
 # **Ideia Central**
