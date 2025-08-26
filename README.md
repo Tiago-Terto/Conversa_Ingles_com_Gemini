@@ -45,7 +45,7 @@ Busque sempre utilizar mais de 3 palavras na sua resposta para que ela posso ent
 
 # Implementações Futuras
 
-Criar uma forma de, além de se comunicar via texto, ela também se comunicar via áudio com a pessoa, podendo até criar uma plataforma de fala em tempo real com o chatbot.
+Criar uma forma de, além de se comunicar via texto, se comunicar via áudio com o usuário, ouvindo e falando.
 
 # Observação
 
