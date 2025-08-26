@@ -35,15 +35,15 @@ Mas também, pode tirar dúvida desta forma:
 
 ###### Após entender o significado da palavra pode voltar ao mesmo ponto em que parou o assunto
 
-### Como sair
+# Como sair
 
 Para finalizar a execução apenas se dispensa dela. (A frase deve conter a palavra ‘bye’)
 
-### Dica
+# Dica
 
 Busque sempre utilizar mais de 3 palavras na sua resposta para que ela posso entender e continuar a conversa
 
-### Implementações Futuras
+# Implementações Futuras
 
 Criar uma forma de, além de se comunicar via texto, ela também se comunicar via áudio com a pessoa, podendo até criar uma plataforma de fala em tempo real com o chatbot.
 
