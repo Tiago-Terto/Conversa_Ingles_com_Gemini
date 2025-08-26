@@ -41,7 +41,7 @@ Para finalizar a execução apenas se dispensa dela. (A frase deve conter a pala
 
 # Dica
 
-Busque sempre utilizar mais de 3 palavras na sua resposta para que ela posso entender e continuar a conversa
+Busque sempre utilizar mais de 3 palavras na sua resposta para que ela posso entender e continuar a conversa.
 
 # Implementações Futuras
 
